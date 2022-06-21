@@ -10,9 +10,9 @@ bot = commands.Bot(
     )
 
 # == Variable interval ==
-guild_id = 878060638432280586#guild id
-status_keyword = '.gg/zap'#The status keyword
-role_id = 878064557229215754#The role id
+guild_id = 932314213458780250
+status_keyword = 'zlorical.com/discord'
+role_id = 934898587157020793
 # =======================
 
 @tasks.loop(seconds = 2)
